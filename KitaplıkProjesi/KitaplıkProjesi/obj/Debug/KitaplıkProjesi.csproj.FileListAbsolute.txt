@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.exe.config
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.exe
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\KitaplıkProjesi.pdb
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.exe
+C:\Users\user\Desktop\C# proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\KitaplıkProjesi.pdb
